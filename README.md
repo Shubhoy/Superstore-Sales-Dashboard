@@ -20,4 +20,7 @@ Responsive Layout: Dashboard is organized into sections for better readability a
 https://github.com/Shubhoy/Superstore-Sales-Dashboard/blob/main/SuperStore_Sales_Dataset.csv
 
 # Dahboard Interaction
+https://github.com/Shubhoy/Superstore-Sales-Dashboard/blob/main/SuperStore%20Sales%20Dashboard%20Pdf.pdf
 
+# Dashboard Forecast Interaction
+https://github.com/Shubhoy/Superstore-Sales-Dashboard/blob/main/SuperStore%20Sales%20Forecast.jpg
