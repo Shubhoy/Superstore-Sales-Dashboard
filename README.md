@@ -16,3 +16,8 @@ Interactivity: Filters and slicers for region-based data exploration.
 Color Coding: Used to differentiate categories and highlight key metrics.
 Responsive Layout: Dashboard is organized into sections for better readability and focus.
 
+# Dataset
+https://github.com/Shubhoy/Superstore-Sales-Dashboard/blob/main/SuperStore_Sales_Dataset.csv
+
+# Dahboard Interaction
+
