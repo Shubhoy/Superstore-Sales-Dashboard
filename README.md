@@ -24,3 +24,11 @@ https://github.com/Shubhoy/Superstore-Sales-Dashboard/blob/main/SuperStore%20Sal
 
 # Dashboard Forecast Interaction
 https://github.com/Shubhoy/Superstore-Sales-Dashboard/blob/main/SuperStore%20Sales%20Forecast.jpg
+
+# Summary & Insights
+The West region leads in sales performance, contributing 33% of total sales.
+Consumer segment dominates with 48% of total sales.
+Online payment mode is the most used (35%), followed by COD.
+Standard Class shipping is the most utilized, with the highest sales.
+Phones are the top-selling sub-category with $0.20M in sales.
+There's a clear growth trend in sales and profit from mid-year to December.
