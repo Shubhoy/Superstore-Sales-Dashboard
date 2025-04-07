@@ -1,4 +1,5 @@
 # Superstore-Sales-Dashboard
+To contribute to the success of a business by utilizing data analysis techniques, specifically focusing on time series analysis, to provide valuable insights and accurate sales forecasting.
 
 # Project Overview
 The Super Store Sales Dashboard is an interactive, data-driven report created using Power BI Desktop. It visualizes sales, profit, and performance metrics across different dimensions such as region, category, payment mode, shipping mode, and time. The dashboard is designed to provide valuable insights to decision-makers and stakeholders for strategic business planning and performance evaluation.
