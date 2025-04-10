@@ -26,6 +26,9 @@ https://github.com/Shubhoy/Superstore-Sales-Dashboard/blob/main/SuperStore%20Sal
 # Dashboard Forecast Interaction
 https://github.com/Shubhoy/Superstore-Sales-Dashboard/blob/main/SuperStore%20Sales%20Forecast.jpg
 
+# LinkedIn Post 
+https://www.linkedin.com/feed/update/urn:li:activity:7315972252825534466/
+
 # Summary & Insights
 The West region leads in sales performance, contributing 33% of total sales.
 Consumer segment dominates with 48% of total sales.
